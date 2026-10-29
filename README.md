@@ -1,7 +1,14 @@
-﻿# Car Dealership Website
+# Car Dealership Website
 
 ## Brief description
 A multi-page car dealership website with browsing pages for car models, company info, contact, and user registration/login backed by PHP and MySQL.
+
+## Tech stack
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
 
 ## Project purpose
 Provide a classic full-stack (HTML/CSS/JS + PHP/MySQL) dealership site for managing customer access and presenting inventory-style pages.
