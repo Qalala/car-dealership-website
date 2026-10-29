@@ -1,0 +1,142 @@
+﻿body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto; 
+}
+
+table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #000000;
+    color: #fb2525;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#151515;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    background-color:#000000;
+}
+    marquee
+{
+    height: 21px;
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    color: #FFFFFF;
+    background-color:#111111;
+    font-size: 20px;
+} *{
+    margin: auto;
+}
+
+table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1D3E7B;
+    color: #000000;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#1D3E7B;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    background-color:#1D3E7B;
+}.contact-us {
+    width: 70%;
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+}
+
+label {
+    margin-top: 10px;
+    display: block;
+}
+
+.branches-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.branch {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    margin: 15px 0;
+    font-size: 18px;
+}
+.hotline-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.hotline {
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.hotline h1 {
+    color: #fff;
+}
+
+.hotline h2 {
+    font-size: 24px;
+    color: #fff;
+}
+

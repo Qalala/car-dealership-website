@@ -1,0 +1,184 @@
+*{
+	margin: auto;
+}
+table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #000000;
+    color: #fb2525;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#151515;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;            
+    width: 100%;
+    text-indent: 50px;
+    background-color:#000000;
+}
+    marquee
+{
+    height: 21px;
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;            
+    width: 100%;
+    text-indent: 50px;
+    color: #FFFFFF;
+    background-color:#111111;
+    font-size: 20px;
+} *{
+    margin: auto;
+}
+
+table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1D3E7B;
+    color: #000000;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#1D3E7B;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;            
+    width: 100%;
+    text-indent: 50px;
+    background-color:#1D3E7B;
+}
+.SiteLogo
+{
+    width:130px;
+    height:80px;
+}
+
+
+body
+{
+	
+    background-image:url("1.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+			
+}
+
+.LoginBox
+{
+	border-radius: 5%;
+	width: 320px;
+	height: 400px;
+	background-color: #000;
+   	color:#fff;
+	top: 35%;
+	left:10%;
+	position: absolute;
+	transform: translate(-50,-50);
+	box-sizing: border-box;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+.avatar
+{
+	width: 100px;
+	height:100px;
+	border-radius:50%;
+	position: absolute;
+	top: -50px;
+	right:113px;
+}
+
+h1
+{
+	
+	padding-bottom: 20px;
+	text-align:left;
+	font-size: 22px;
+}
+
+.LoginBox p
+{
+	font-weight: bold;
+}
+
+.LoginBox input
+{
+	width: 100%;
+	margin-bottom: 20px;	
+}
+.LoginBox input[type="text"], input[type="password"]
+{
+	border: none;
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #fff;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;	
+}
+
+.LoginBox input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #12264B;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 20px;
+}
+
+.LoginBox input[type="submit"]:hover
+{
+	cursor: pointer;
+	background:#2B5CB7;
+	color:#000;
+}
+
+.LoginBox a
+{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 20px;
+	color:#AAAAAA;
+}
+
+.LoginBox a:hover
+{
+	color: #2B5CB7;
+}

@@ -1,0 +1,152 @@
+﻿ table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #000000;
+    color: #fb2525;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#151515;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    background-color:#000000;
+}
+    marquee
+{
+    height: 21px;
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    color: #FFFFFF;
+    background-color:#111111;
+    font-size: 20px;
+} *{
+    margin: auto;
+}
+
+table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1D3E7B;
+    color: #000000;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#1D3E7B;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    background-color:#1D3E7B;
+}
+body
+{
+	background-image: url("blkred.png");
+	background-repeat:no-repeat;
+    background-size:cover;
+    text-align:center;	
+			
+}
+
+     
+.SiteLogo
+{
+    width:130px;
+    height:80px;
+}
+.aboutus h1
+{
+	margin-top: 2%;
+	font-size: 25px;
+	color: #FFFFFF;
+	padding-left: 1%;
+}
+.aboutus p
+{
+	padding: 1%;
+	color: #FFFFFF;
+}
+
+.aboutuspic
+{
+	position: absolute;
+	top: 30%;
+	left: 60%;
+	width: 30%;
+}
+.Next_Button
+{
+	width:6%;
+	background: #373435;
+	border-radius: 5%;
+	height: 55px;
+	padding: 5px;
+	position: absolute;
+	bottom: 10%;
+	left: 88%;
+	
+}
+.Next_Button a
+{
+	text-decoration: none;
+	font-size: 40px;
+	color: #7F4E10;
+}
+.team-container {
+    text-align: center;
+}
+
+.team-member {
+    color: white;
+}
+
+button {
+    background-color: #970101;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #690000;
+}
+
+

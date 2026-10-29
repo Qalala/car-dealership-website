@@ -1,0 +1,149 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: darkblue;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto; 
+}
+
+table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #000000;
+    color: #fb2525;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#151515;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    background-color:#000000;
+}
+    marquee
+{
+    height: 21px;
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    color: #FFFFFF;
+    background-color:#111111;
+    font-size: 20px;
+} *{
+    margin: auto;
+}
+
+table a input[type="submit"]
+{
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1D3E7B;
+    color: #000000;
+    font-size: 18px;
+    border-radius: 10px;
+}
+table a input[type="submit"]:hover
+{ 
+    cursor: pointer;
+    height: 60px;
+    width: inherit;
+    background:#1D3E7B;
+    color:#FFFFFF;
+}
+table
+{
+    text-decoration: none;
+    border-spacing: inherit;
+    border-style:inset;
+    border: 1px;
+    width: 100%;
+    text-indent: 50px;
+    background-color:#1D3E7B;
+}
+table td {
+    padding: 5px;
+}
+
+.SiteLogo {
+    max-width: 100%;
+    height: auto;
+}
+
+.car-models-for-sale {
+    text-align: center;
+    margin: 20px;
+}
+
+.car-selection select {
+    width: 150px;
+    padding: 5px;
+    font-size: 16px;
+    background-color: white;
+    color: darkblue;
+}
+
+.car-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.car-model {
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    color: darkblue;
+}
+
+.car-model img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.car-selection {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
+.select-container {
+    text-align: center;
+}
+
+.car-models-for-sale {
+    text-align: center;
+    margin: 20px;
+}
+
